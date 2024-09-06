@@ -1,0 +1,49 @@
+_repo: The-works-of-the-highly-experienced-and-famous-chymist-John-Rudolph-Glauber-b-containing-grea__74240
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Packe, Christopher, active 1670-1711
+    gutenberg_agent_id: '57406'
+    url: http://www.gutenberg.org/2009/agents/57406
+    wikipedia: https://en.wikipedia.org/wiki/Christopher_Packe_(chemist)
+creator:
+  author:
+    agent_name: Glauber, Johann Rudolf
+    aliases:
+    - Glauberus, Johannes Rudolphus
+    - Glauber, John Rudolph
+    - Glauber, Johann Rudolph
+    birthdate: 1604
+    deathdate: 1670
+    gutenberg_agent_id: '57405'
+    url: http://www.gutenberg.org/2009/agents/57405
+    wikipedia: https://en.wikipedia.org/wiki/Johann_Rudolf_Glauber
+description: ''
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74240'
+  lccn: '15007506'
+language: en
+pgterms:marc905: 20170806130543glauber
+pgterms:marc906: '1689'
+pgterms:marc907: GB
+production_note: deaurider, Robert Tonsing, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bChristopher Packe, $c1689.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chemistry -- Early works to 1800'
+- !lcsh 'Alchemy -- Early works to 1800'
+- !lcsh 'Medicine, Magic, mystic, and spagiric -- Early works to 1800'
+- !lcc 'QD'
+- GITenberg
+title: 'The works of the highly experienced and famous chymist, John Rudolph Glauber
+  : $b containing, great variety of choice secrets in medicine and alchymy in the
+  working of metallick mines, and the separation of metals: also, various cheap and
+  easie ways of making salt-petre, and improving of barren-land, and the fruits of
+  the earth.'
+url: http://www.gutenberg.org/ebooks/74240
