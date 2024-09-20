@@ -6,6 +6,9 @@ contributor:
     gutenberg_agent_id: '57406'
     url: http://www.gutenberg.org/2009/agents/57406
     wikipedia: https://en.wikipedia.org/wiki/Christopher_Packe_(chemist)
+covers:
+- cover_type: archival
+  image_path: 74240-h/images/cover.jpg
 creator:
   author:
     agent_name: Glauber, Johann Rudolf
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57405
     wikipedia: https://en.wikipedia.org/wiki/Johann_Rudolf_Glauber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74240#The-works-of-the-highly-experienced-and-famous-chymist-John-Rudolph-Glauber-b-containing-grea_
 gutenberg_issued: '2024-08-12'
 gutenberg_type: Text
 identifiers:
